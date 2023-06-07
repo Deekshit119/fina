@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>itil</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2022-09-20 08:44:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>567cc7e587c2d110f158400acebb3557</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dem_123</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dem_123" source="x_snc_dem_123">011c0fe587c2d110f158400acebb3501</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dem_123">011c0fe587c2d110f158400acebb3501</sys_scope>
+        <sys_update_name>sys_app_application_567cc7e587c2d110f158400acebb3557</sys_update_name>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2022-09-20 08:44:03</sys_updated_on>
+        <title>Dem_123</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2022-09-21 10:12:50</sys_created_on>
+        <sys_id>346a6cc687ce5510115042ad0ebb354c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>task.snc_internal</sys_name>
+        <sys_package display_value="Dem_123" source="x_snc_dem_123">011c0fe587c2d110f158400acebb3501</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Dem_123">011c0fe587c2d110f158400acebb3501</sys_scope>
+        <sys_security_acl display_value="task">98eecfe987c2d110f158400acebb357f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_346a6cc687ce5510115042ad0ebb354c</sys_update_name>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2022-09-21 10:12:50</sys_updated_on>
+        <sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role>
+        <transaction_id>ce5ae8c687ce5510115042ad0ebb35ae</transaction_id>
+    </sys_security_acl_role>
+</record_update>
